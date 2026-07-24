@@ -49,7 +49,7 @@
 ### 📊 Estadísticas de GitHub
 
 - Seguidores: [2](https://github.com/Prolexis?tab=followers)
-- Repositorios públicos: [1](https://github.com/Prolexis?tab=repositories)
+- Repositorios públicos: [11](https://github.com/Prolexis?tab=repositories)
 - Lenguaje principal: Sin código
 
 ---
