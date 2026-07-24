@@ -16,35 +16,35 @@
 
 ### 🛠️ Tecnologías
 
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00A6ED?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-[Mostrar imagen](https://github.com/Prolexis/Aplicacion-OpenCV-Stream)
+[![Aplicacion OpenCV Stream](https://img.shields.io/badge/Aplicaci%C3%B3n%20OpenCV%20Stream-OpenCV-blue?style=for-the-badge)](https://github.com/Prolexis/Aplicacion-OpenCV-Stream)
 
 Aplicación de visión computacional para procesamiento de video en tiempo real.
 
-[Mostrar imagen](https://github.com/Prolexis/Procesamiento_Datasets_ML)
+[![Procesamiento Datasets ML](https://img.shields.io/badge/Procesamiento%20Datasets%20ML-Streamlit-blue?style=for-the-badge)](https://github.com/Prolexis/Procesamiento_Datasets_ML)
 
 Aplicación Streamlit para procesamiento de conjuntos de datos en Machine Learning.
 
 ---
 
-[Mostrar imagen](https://github.com/Prolexis/sistema-de-egresados)
+[![Sistema de Egresados](https://img.shields.io/badge/Sistema%20de%20Egresados-Web%20Plataforma-blue?style=for-the-badge)](https://github.com/Prolexis/sistema-de-egresados)
 
 Plataforma para el vínculo entre egresados, universidades y empresas.
 
 ---
 
-[Mostrar imagen](https://github.com/Prolexis/carro-de-la-compra)
-[Mostrar imagen](https://github.com/Prolexis/tienda-online)
-[Mostrar imagen](https://github.com/Prolexis/Deportes_Tienda11)
+[![Carro de la Compra](https://img.shields.io/badge/Carro%20de%20la%20Compra-E-commerce-blue?style=for-the-badge)](https://github.com/Prolexis/carro-de-la-compra)
+[![Tienda Online](https://img.shields.io/badge/Tienda%20Online-E-commerce-blue?style=for-the-badge)](https://github.com/Prolexis/tienda-online)
+[![Deportes Tienda11](https://img.shields.io/badge/Deportes%20Tienda11-E-commerce-blue?style=for-the-badge)](https://github.com/Prolexis/Deportes_Tienda11)
 
 Proyectos de e-commerce y tiendas online.
 
@@ -52,11 +52,13 @@ Proyectos de e-commerce y tiendas online.
 
 ### 📊 Estadísticas de GitHub
 
-Mostrar imagen
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prolexis&show_icons=true&theme=dark)](https://github.com/Prolexis)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prolexis&layout=compact&theme=dark)](https://github.com/Prolexis)
 
 ---
 
 ### 📫 Contacto
 
-[Mostrar imagen](https://www.linkedin.com/in/cristhian-alexis-sanchez-enriquez-a69808319/)
-[Mostrar imagen](mailto:casanchezen@unitru.edu.pe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-alexis-sanchez-enriquez-a69808319/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:casanchezen@unitru.edu.pe)
