@@ -52,9 +52,9 @@ Proyectos de comercio electrónico y tiendas online.
 
 ### 📊 Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://camo.githubusercontent.com/0625f8bf9bae631173be328a07a3d29d905fb3196c04f02edce42284c1458d8f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d50726f6c657869732673686f775f69636f6e733d74727565267468656d653d6461726b)](https://github.com/Prolexis)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Prolexis&show_icons=true&theme=dark)](https://github.com/Prolexis)
 
-[![Los mejores idiomas](https://camo.githubusercontent.com/1f0114fcd46096ae43e52265b95ced953b2fc1b88b1bd6c66cb4c00f711c8ef9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50726f6c65786973266c61796f75743d636f6d70616374267468656d653d6461726b)](https://github.com/Prolexis)
+[![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs?username=Prolexis&layout=compact&theme=dark)](https://github.com/Prolexis)
 
 ---
 
