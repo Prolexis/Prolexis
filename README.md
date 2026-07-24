@@ -1,16 +1,15 @@
 # ¡Hola! 👋
 
-## Soy Cristhian Alexis Sánchez Enríquez
-
+## Cristhian Alexis Sánchez Enríquez
 ### Estudiante de Ingeniería de Sistemas
 
 ---
 
-### 💻 Sobre mí
+### 💼 Sobre mí
 
-- ⚡ Apasionado del desarrollo de software y la tecnología.
-- 🧠 Experiencia en Machine Learning, visión computacional y proyectos full-stack.
-- 🚀 Siempre aprendiendo y colaborando en soluciones prácticas.
+- Desarrollador full-stack con foco en Machine Learning, visión computacional y soluciones web.
+- Experiencia en proyectos con Python, Streamlit, OpenCV y TypeScript.
+- Me interesa transformar datos y visión en productos digitales útiles.
 
 ---
 
@@ -19,38 +18,28 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00A6ED?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos destacados
 
-- [Aplicación OpenCV Stream](https://github.com/Prolexis/OpenCV-Streamlitapp)
-  - Aplicación de visión computacional para procesamiento de video en tiempo real.
-- [Procesamiento Datasets ML](https://github.com/Prolexis/Procesamiento_Datasets_ML)
-  - Aplicación Streamlit para procesamiento de conjuntos de datos en Machine Learning.
-
----
-
-- [Sistema de Egresados](https://github.com/Prolexis/egresados-system)
-  - Plataforma para el vínculo entre egresados, universidades y empresas.
-
----
-
-#### Proyectos de comercio electrónico y tiendas online
-
-- [Carro de la Compra](https://github.com/Prolexis/shopping_cart)
-- [Tienda Online](https://github.com/Prolexis/tienda-online)
-- [Deportes Tienda11](https://github.com/Prolexis/Deportes_Tienda11)
+- [OpenCV-Streamlitapp](https://github.com/Prolexis/OpenCV-Streamlitapp) — Aplicación de visión computacional para procesamiento de video en tiempo real. `Python`
+- [Procesamiento_Datasets_ML](https://github.com/Prolexis/Procesamiento_Datasets_ML) — Aplicación Streamlit para procesamiento de conjuntos de datos en Machine Learning. `Python`
+- [egresados-system](https://github.com/Prolexis/egresados-system) — Plataforma para el vínculo entre egresados, universidades y empresas. `TypeScript`
+- [shopping_cart](https://github.com/Prolexis/shopping_cart) — Carrito de compras con lógica de e-commerce. `Python`
+- [tienda-online](https://github.com/Prolexis/tienda-online) — Tienda online con experiencia de usuario moderna. `TypeScript`
+- [Deportes_Tienda11](https://github.com/Prolexis/Deportes_Tienda11) — Plataforma de e-commerce para artículos deportivos. `TypeScript`
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-- Seguidores: [2](https://github.com/Prolexis?tab=followers)
-- Repositorios públicos: [11](https://github.com/Prolexis?tab=repositories)
-- Lenguaje principal: Sin código
+[![Seguidores](https://img.shields.io/github/followers/Prolexis?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis?tab=followers)
+[![Repositorios](https://img.shields.io/github/public-repos/Prolexis?label=Repositorios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis?tab=repositories)
+[![Lenguaje principal](https://img.shields.io/badge/Lenguaje%20principal-Python%20%7C%20TypeScript-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
 
 ---
 
