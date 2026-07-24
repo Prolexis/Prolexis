@@ -39,7 +39,8 @@
 
 [![Seguidores](https://img.shields.io/github/followers/Prolexis?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis?tab=followers)
 [![Repositorios](https://img.shields.io/github/public-repos/Prolexis?label=Repositorios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis?tab=repositories)
-[![Lenguaje principal](https://img.shields.io/badge/Lenguaje%20principal-Python%20%7C%20TypeScript-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
+
+- Lenguaje principal: Python, TypeScript
 
 ---
 
