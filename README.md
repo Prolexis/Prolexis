@@ -37,9 +37,8 @@
 
 ### 📊 Estadísticas de GitHub
 
-[![Seguidores](https://img.shields.io/github/followers/Prolexis?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis?tab=followers)
-[![Repositorios](https://img.shields.io/github/public-repos/Prolexis?label=Repositorios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis?tab=repositories)
-
+- Seguidores: 2
+- Repositorios públicos: 11
 - Lenguaje principal: Python, TypeScript
 
 ---
