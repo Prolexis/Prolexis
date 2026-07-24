@@ -42,9 +42,9 @@ Plataforma para el vínculo entre egresados, universidades y empresas.
 
 ---
 
-[![Carro de la Compra](https://camo.githubusercontent.com/c1cfa6a82f3b93f67c5580fa6395855249072f4699d98f20434b92f0709efc11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436172726f25323064652532306c61253230436f6d7072612d452d636f6d6d657263652d626c75653f7374796c653d666f722d7468652d6261646765)](https://github.com/Prolexis/carro-de-la-compra)
-[![Tienda Online](https://camo.githubusercontent.com/93961c425c0a2b2ace3ef1a097a0fe2fc2c534e95a349f2c9d51abd93af7f865/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5469656e64612532304f6e6c696e652d452d636f6d6d657263652d626c75653f7374796c653d666f722d7468652d6261646765)](https://github.com/Prolexis/tienda-online)
-[![Deportes Tienda11](https://camo.githubusercontent.com/14af1c3ff215fad582030800e66e10d1db27941684ce1df523d8ce58451cc80d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465706f727465732532305469656e646131312d452d636f6d6d657263652d626c75653f7374796c653d666f722d7468652d6261646765)](https://github.com/Prolexis/Deportes_Tienda11)
+[![Carro de la Compra](https://img.shields.io/badge/Carro%20de%20la%20Compra-E-commerce-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis/carro-de-la-compra)
+[![Tienda Online](https://img.shields.io/badge/Tienda%20Online-E-commerce-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis/tienda-online)
+[![Deportes Tienda11](https://img.shields.io/badge/Deportes%20Tienda11-E-commerce-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis/Deportes_Tienda11)
 
 Proyectos de comercio electrónico y tiendas online.
 
@@ -54,7 +54,7 @@ Proyectos de comercio electrónico y tiendas online.
 
 [![GitHub seguidores](https://img.shields.io/github/followers/Prolexis?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
 [![Repositorios GitHub](https://img.shields.io/github/public-repos/Prolexis?label=Repositorios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
-[![Lenguaje principal](https://img.shields.io/github/languages/top/Prolexis/Prolexis?label=Lenguaje%20principal&style=for-the-badge)](https://github.com/Prolexis)
+[![Lenguaje principal](https://img.shields.io/badge/Lenguaje%20principal-Sin%20c%C3%B3digo-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
 
 ---
 
