@@ -26,21 +26,21 @@
 
 ### 🚀 Proyectos Destacados
 
-- [Aplicación OpenCV Stream](https://github.com/Prolexis/Aplicacion-OpenCV-Stream)
+- [Aplicación OpenCV Stream](https://github.com/Prolexis/OpenCV-Streamlitapp)
   - Aplicación de visión computacional para procesamiento de video en tiempo real.
 - [Procesamiento Datasets ML](https://github.com/Prolexis/Procesamiento_Datasets_ML)
   - Aplicación Streamlit para procesamiento de conjuntos de datos en Machine Learning.
 
 ---
 
-- [Sistema de Egresados](https://github.com/Prolexis/sistema-de-egresados)
+- [Sistema de Egresados](https://github.com/Prolexis/egresados-system)
   - Plataforma para el vínculo entre egresados, universidades y empresas.
 
 ---
 
 #### Proyectos de comercio electrónico y tiendas online
 
-- [Carro de la Compra](https://github.com/Prolexis/carro-de-la-compra)
+- [Carro de la Compra](https://github.com/Prolexis/shopping_cart)
 - [Tienda Online](https://github.com/Prolexis/tienda-online)
 - [Deportes Tienda11](https://github.com/Prolexis/Deportes_Tienda11)
 
