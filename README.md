@@ -26,35 +26,31 @@
 
 ### 🚀 Proyectos Destacados
 
-[![Aplicacion OpenCV Stream](https://img.shields.io/badge/Aplicaci%C3%B3n%20OpenCV%20Stream-OpenCV-blue?style=for-the-badge)](https://github.com/Prolexis/Aplicacion-OpenCV-Stream)
-
-Aplicación de visión computacional para procesamiento de video en tiempo real.
-
-[![Procesamiento Datasets ML](https://img.shields.io/badge/Procesamiento%20Datasets%20ML-Streamlit-blue?style=for-the-badge)](https://github.com/Prolexis/Procesamiento_Datasets_ML)
-
-Aplicación Streamlit para procesamiento de conjuntos de datos en Machine Learning.
+- [Aplicación OpenCV Stream](https://github.com/Prolexis/Aplicacion-OpenCV-Stream)
+  - Aplicación de visión computacional para procesamiento de video en tiempo real.
+- [Procesamiento Datasets ML](https://github.com/Prolexis/Procesamiento_Datasets_ML)
+  - Aplicación Streamlit para procesamiento de conjuntos de datos en Machine Learning.
 
 ---
 
-[![Sistema de Egresados](https://img.shields.io/badge/Sistema%20de%20Egresados-Web%20Plataforma-blue?style=for-the-badge)](https://github.com/Prolexis/sistema-de-egresados)
-
-Plataforma para el vínculo entre egresados, universidades y empresas.
+- [Sistema de Egresados](https://github.com/Prolexis/sistema-de-egresados)
+  - Plataforma para el vínculo entre egresados, universidades y empresas.
 
 ---
 
-[![Carro de la Compra](https://img.shields.io/badge/Carro%20de%20la%20Compra-E-commerce-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis/carro-de-la-compra)
-[![Tienda Online](https://img.shields.io/badge/Tienda%20Online-E-commerce-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis/tienda-online)
-[![Deportes Tienda11](https://img.shields.io/badge/Deportes%20Tienda11-E-commerce-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis/Deportes_Tienda11)
+#### Proyectos de comercio electrónico y tiendas online
 
-Proyectos de comercio electrónico y tiendas online.
+- [Carro de la Compra](https://github.com/Prolexis/carro-de-la-compra)
+- [Tienda Online](https://github.com/Prolexis/tienda-online)
+- [Deportes Tienda11](https://github.com/Prolexis/Deportes_Tienda11)
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-[![GitHub seguidores](https://img.shields.io/github/followers/Prolexis?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
-[![Repositorios GitHub](https://img.shields.io/github/public-repos/Prolexis?label=Repositorios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
-[![Lenguaje principal](https://img.shields.io/badge/Lenguaje%20principal-Sin%20c%C3%B3digo-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
+- Seguidores: [2](https://github.com/Prolexis?tab=followers)
+- Repositorios públicos: [1](https://github.com/Prolexis?tab=repositories)
+- Lenguaje principal: Sin código
 
 ---
 
