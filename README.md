@@ -42,19 +42,19 @@ Plataforma para el vínculo entre egresados, universidades y empresas.
 
 ---
 
-[![Carro de la Compra](https://img.shields.io/badge/Carro%20de%20la%20Compra-E-commerce-blue?style=for-the-badge)](https://github.com/Prolexis/carro-de-la-compra)
-[![Tienda Online](https://img.shields.io/badge/Tienda%20Online-E-commerce-blue?style=for-the-badge)](https://github.com/Prolexis/tienda-online)
-[![Deportes Tienda11](https://img.shields.io/badge/Deportes%20Tienda11-E-commerce-blue?style=for-the-badge)](https://github.com/Prolexis/Deportes_Tienda11)
+[![Carro de la Compra](https://camo.githubusercontent.com/c1cfa6a82f3b93f67c5580fa6395855249072f4699d98f20434b92f0709efc11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436172726f25323064652532306c61253230436f6d7072612d452d636f6d6d657263652d626c75653f7374796c653d666f722d7468652d6261646765)](https://github.com/Prolexis/carro-de-la-compra)
+[![Tienda Online](https://camo.githubusercontent.com/93961c425c0a2b2ace3ef1a097a0fe2fc2c534e95a349f2c9d51abd93af7f865/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5469656e64612532304f6e6c696e652d452d636f6d6d657263652d626c75653f7374796c653d666f722d7468652d6261646765)](https://github.com/Prolexis/tienda-online)
+[![Deportes Tienda11](https://camo.githubusercontent.com/14af1c3ff215fad582030800e66e10d1db27941684ce1df523d8ce58451cc80d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465706f727465732532305469656e646131312d452d636f6d6d657263652d626c75653f7374796c653d666f722d7468652d6261646765)](https://github.com/Prolexis/Deportes_Tienda11)
 
-Proyectos de e-commerce y tiendas online.
+Proyectos de comercio electrónico y tiendas online.
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prolexis&show_icons=true&theme=dark)](https://github.com/Prolexis)
+[![Estadísticas de GitHub](https://camo.githubusercontent.com/0625f8bf9bae631173be328a07a3d29d905fb3196c04f02edce42284c1458d8f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d50726f6c657869732673686f775f69636f6e733d74727565267468656d653d6461726b)](https://github.com/Prolexis)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prolexis&layout=compact&theme=dark)](https://github.com/Prolexis)
+[![Los mejores idiomas](https://camo.githubusercontent.com/1f0114fcd46096ae43e52265b95ced953b2fc1b88b1bd6c66cb4c00f711c8ef9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50726f6c65786973266c61796f75743d636f6d70616374267468656d653d6461726b)](https://github.com/Prolexis)
 
 ---
 
