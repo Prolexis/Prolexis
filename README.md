@@ -52,9 +52,9 @@ Proyectos de comercio electrónico y tiendas online.
 
 ### 📊 Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Prolexis&show_icons=true&theme=dark)](https://github.com/Prolexis)
-
-[![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs?username=Prolexis&layout=compact&theme=dark)](https://github.com/Prolexis)
+[![GitHub seguidores](https://img.shields.io/github/followers/Prolexis?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
+[![Repositorios GitHub](https://img.shields.io/github/public-repos/Prolexis?label=Repositorios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prolexis)
+[![Lenguaje principal](https://img.shields.io/github/languages/top/Prolexis/Prolexis?label=Lenguaje%20principal&style=for-the-badge)](https://github.com/Prolexis)
 
 ---
 
